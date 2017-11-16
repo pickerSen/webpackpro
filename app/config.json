@@ -1,0 +1,4 @@
+{
+	"greetText": "hi! there and greeting from JSON!",
+	"newText": "自定义的webpack + react组件"
+}
